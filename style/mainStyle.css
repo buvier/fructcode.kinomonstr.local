@@ -1,1 +1,11 @@
 /* Main Style Sheet */
+.content {
+  width: 300px;
+}
+.color1 {
+  background-color: lightcoral;
+}
+.color2 {
+  background-color: lightgreen;
+}
+
